@@ -6,7 +6,13 @@ import org.junit.jupiter.params.provider.CsvSource;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
-
+/*
+    AHMET ERAY KARADAĞ
+    B201202021
+    SOFTWARE VALIDATION AND VERIFICATION
+    HOMEWORK-1
+    https://github.com/eraykaradag/SWE202-TDDHomework
+ */
 class CalculatorTest {
 
     @BeforeEach
